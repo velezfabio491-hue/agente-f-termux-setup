@@ -2,5 +2,11 @@ git clone https://github.com/velezfabio491-hue/agente-f-termux-setup.git /storag
 
 
 cd /storage/emulated/0/Download/agente-f-termux-setup
+
+
+cd ~
+rm -rf agente-f-termux-setup
+git clone https://github.com/velezfabio491-hue/agente-f-termux-setup.git
+cd agente-f-termux-setup
 chmod +x setup.sh
-./setup.sh
+bash setup.sh
