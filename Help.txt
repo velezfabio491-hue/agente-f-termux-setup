@@ -1,1 +1,1 @@
-
+git clone https://github.com/velezfabio491-hue/agente-f-termux-setup.git /storage/emulated/0/Download/agente-f-termux-setup
